@@ -1,0 +1,92 @@
+[1;31m
+Start test 1[0m
+The username is Max.
+[1;31m
+Start test 2[0m
+ The file 'abc.txt' is tracked.
+[1;31m
+Start test 3[0m
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+[1;31m
+Start test 4[0m
+Please, tell me who you are.
+The username is Max.
+The username is Max.
+The username is John.
+The username is John.
+[1;31m
+Start test 5[0m
+Add a file to the index.
+$The file 'file478.txt' is tracked.
+Tracked files:
+file478.txt
+
+$The file 'file552.txt' is tracked.
+Tracked files:
+file478.txt
+file552.txt
+
+Can't find 'file927.txt'.
+[1;31m
+Start test 6[0m
+The username is Marie862.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+Changes are committed.
+[1;31m
+Start test 7[0m
+The username is Marie61.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+No commits yet.
+Message was not passed.
+Changes are committed.
+0commit e330bc4475ffa3eb818e21f42ecc9403c24bc970
+Author: Marie61
+Test message
+
+
+Nothing to commit.
+Changes are committed.
+0commit c2611b1d81f329c14b3026f7ae3fa87efeeeec62
+Author: Marie61
+Test message3
+
+0commit e330bc4475ffa3eb818e21f42ecc9403c24bc970
+Author: Marie61
+Test message
+
+
+[1;31m
+Start test 8[0m
+The username is Marie348.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+Changes are committed.
+Changes are committed.
+Commit id was not passed.
+Commit does not exist.
+0commit a8292fbf2743aac1ab8a5d2858ec78aa27159c5d
+Author: Marie348
+Second commit
+
+0commit 8d6820f413dc60ca575bcea894d0eb814c9ecc57
+Author: Marie348
+First commit
+
+
+>Switched to commit 8d6820f413dc60ca575bcea894d0eb814c9ecc57.
+[1;31m
+Start test 9[0m
+&'wrongArg246' is not a SVCS command.
